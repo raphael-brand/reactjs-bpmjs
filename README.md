@@ -1,2 +1,2 @@
-# reactjs-bpmjs
+# reactjs-bpmnjs
 Created with CodeSandbox
